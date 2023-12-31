@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/happynewyearleti.github.io/static/css/main.f0d6281d.css",
+    "main.js": "/happynewyearleti.github.io/static/js/main.b0f05f85.js",
+    "static/media/leti.jpg": "/happynewyearleti.github.io/static/media/leti.e47f59e8064f118c0373.jpg",
+    "static/media/logo-2.png": "/happynewyearleti.github.io/static/media/logo-2.8da6b39fd863bd15bfc3.png",
+    "index.html": "/happynewyearleti.github.io/index.html",
+    "main.f0d6281d.css.map": "/happynewyearleti.github.io/static/css/main.f0d6281d.css.map",
+    "main.b0f05f85.js.map": "/happynewyearleti.github.io/static/js/main.b0f05f85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0d6281d.css",
+    "static/js/main.b0f05f85.js"
+  ]
+}
